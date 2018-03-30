@@ -1,0 +1,96 @@
+{ "status": 200, "holidays": {
+   "2016-01-01": [
+  {
+    "name": "Durin's Day",
+    "date": "2016-01-01",
+    "observed": "2016-01-01",
+    "public": true
+  }
+],
+"2016-02-23": [
+  {
+    "name": "Founder's Day",
+    "date": "2016-02-23",
+    "observed": "2016-02-23",
+    "public": true
+  }
+],
+"2016-02-29": [
+  {
+    "name": "Leap Day",
+    "date": "2016-02-29",
+    "observed": "2016-02-29",
+    "public": false
+  }
+],
+"2016-03-20": [
+  {
+    "name": "Weasel Stomping Day",
+    "date": "2016-03-20",
+    "observed": "2016-03-20",
+    "public": false
+  }
+],
+"2016-04-05": [
+  {
+    "name": "First Contact Day",
+    "date": "2016-04-05",
+    "observed": "2016-04-05",
+    "public": false
+  }
+],
+"2016-04-06": [
+  {
+    "name": "Second Contact Day",
+    "date": "2016-04-06",
+    "observed": "2016-04-06",
+    "public": false
+  }
+],
+"2016-05-10": [
+  {
+    "name": "Whacking Day",
+    "date": "2016-05-10",
+    "observed": "2016-05-10",
+    "public": false
+  }
+],
+"2016-10-31": [
+  {
+    "name": "Harry Potter Day",
+    "date": "2016-10-31",
+    "observed": "2016-10-31",
+    "public": false
+  }
+],
+"2016-11-24": [
+  {
+    "name": "Hogswatch",
+    "date": "2016-11-24",
+    "observed": "2016-11-24",
+    "public": false
+  }
+],
+"2016-12-23": [
+  {
+    "name": "Festivus",
+    "date": "2016-12-23",
+    "observed": "2016-12-23",
+    "public": true
+  }
+],
+"2016-12-25": [
+  {
+    "name": "Decemberween",
+    "date": "2016-12-25",
+    "observed": "2016-12-25",
+    "public": false
+  },
+  {
+    "name": "Winter Veil",
+    "date": "2016-12-25",
+    "observed": "2016-12-26",
+    "public": true
+  }
+] 
+} }
